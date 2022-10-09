@@ -1,6 +1,7 @@
 package com.student.manage;
 
-public class Student {private int studentId;
+public class Student {
+    private int studentId;
     private String studentName;
     private String studentPhone;
     private String studentCity;
